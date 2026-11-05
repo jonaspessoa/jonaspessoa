@@ -4,16 +4,16 @@
 
 Desenvolvo aplicações e ferramentas que organizam cadastros, documentos, atendimento e rotinas de gestão. Meu portfólio reúne projetos em Python e TypeScript, com atenção à experiência do usuário, à modelagem de dados e às regras de acesso.
 
-[Portfólio](https://jonascepa09-star.github.io/jonaspessoa.github.io/) · [Experimentar a demo CFIC](https://jonascepa09-star.github.io/cfic-showcase/)
+[Portfólio](https://jonaspessoa.github.io/) · [Experimentar a demo CFIC](https://jonaspessoa.github.io/cfic-showcase/)
 
 ## Projetos selecionados
 
 | Projeto | Problema e solução | Explore |
 | --- | --- | --- |
-| **CFIC · Inscrições e Caderno** | Organiza a jornada do interessado à matrícula, com gestão comercial, contatos e indicadores. Produto em Next.js, TypeScript e Supabase; demo pública independente. | [Showcase](https://github.com/jonascepa09-star/cfic-showcase) · [Demo interativa](https://jonascepa09-star.github.io/cfic-showcase/) |
-| **EduCore · Gestão educacional** | Projeto demonstrativo que conecta alunos, turmas e matrículas, com módulos acadêmicos e financeiros e decisões de integridade transacional. Python, Django e PostgreSQL. | [Showcase](https://github.com/jonascepa09-star/educore-showcase) · [Apresentação interativa](https://educore-demo-k196.onrender.com/) |
-| **CEPA · Contratos Digitais** | Estrutura o acompanhamento de contratos educacionais, modelos e fluxo de assinatura. A demo permite explorar cenários fictícios e ações simuladas. Next.js, TypeScript e Supabase. | [Showcase](https://github.com/jonascepa09-star/cepa-contratos-showcase) · [Demo interativa](https://sistema-cepa-contratos.vercel.app/demo) |
-| **WinSIGAA · Central de Busca** | Reúne consultas acadêmicas e financeiras, filtros e exportações em Excel em uma ferramenta desktop. Python, CustomTkinter e Firebird. | [Apresentação visual](https://github.com/jonascepa09-star/finder-winsigaa-showcase) |
+| **CFIC · Inscrições e Caderno** | Organiza a jornada do interessado à matrícula, com gestão comercial, contatos e indicadores. Produto em Next.js, TypeScript e Supabase; demo pública independente. | [Showcase](https://github.com/jonaspessoa/cfic-showcase) · [Demo interativa](https://jonaspessoa.github.io/cfic-showcase/) |
+| **EduCore · Gestão educacional** | Projeto demonstrativo que conecta alunos, turmas e matrículas, com módulos acadêmicos e financeiros e decisões de integridade transacional. Python, Django e PostgreSQL. | [Showcase](https://github.com/jonaspessoa/educore-showcase) · [Apresentação interativa](https://educore-demo-k196.onrender.com/) |
+| **CEPA · Contratos Digitais** | Estrutura o acompanhamento de contratos educacionais, modelos e fluxo de assinatura. A demo permite explorar cenários fictícios e ações simuladas. Next.js, TypeScript e Supabase. | [Showcase](https://github.com/jonaspessoa/cepa-contratos-showcase) · [Demo interativa](https://sistema-cepa-contratos.vercel.app/demo) |
+| **WinSIGAA · Central de Busca** | Reúne consultas acadêmicas e financeiras, filtros e exportações em Excel em uma ferramenta desktop. Python, CustomTkinter e Firebird. | [Apresentação visual](https://github.com/jonaspessoa/finder-winsigaa-showcase) |
 
 ## Tecnologias presentes nos projetos
 
@@ -28,4 +28,4 @@ Os showcases explicam o problema, os fluxos, a arquitetura e os limites de cada 
 
 Na **CFIC**, é possível testar o fluxo com o login público `demo@cfic.example` e a senha `CFICdemo2026!`. No **EduCore**, a apresentação é aberta, mas o painel administrativo requer conta individual. O **WinSIGAA** tem apresentação visual, sem aplicativo público para download.
 
-Para conhecer os projetos, comece pelo [portfólio](https://jonascepa09-star.github.io/jonaspessoa.github.io/) ou pelos repositórios destacados abaixo.
+Para conhecer os projetos, comece pelo [portfólio](https://jonaspessoa.github.io/) ou pelos repositórios destacados abaixo.
