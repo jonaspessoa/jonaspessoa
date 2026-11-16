@@ -15,6 +15,15 @@ Desenvolvo aplicações e ferramentas que organizam cadastros, documentos, atend
 | **CEPA · Contratos Digitais** | Estrutura o acompanhamento de contratos educacionais, modelos e fluxo de assinatura. A demo permite explorar cenários fictícios e ações simuladas. Next.js, TypeScript e Supabase. | [Showcase](https://github.com/jonaspessoa/cepa-contratos-showcase) · [Demo interativa](https://sistema-cepa-contratos.vercel.app/demo) |
 | **WinSIGAA · Central de Busca** | Reúne consultas acadêmicas e financeiras, filtros e exportações em Excel em uma ferramenta desktop. Python, CustomTkinter e Firebird. | [Apresentação visual](https://github.com/jonaspessoa/finder-winsigaa-showcase) |
 
+## Prévia de sites em desenvolvimento
+
+| Projeto | Apresentação | Prévia navegável (não é o site final) |
+| --- | --- | --- |
+| **Breno Barber Shop** | [Showcase](https://github.com/jonaspessoa/jonaspessoa.github.io/blob/main/docs/breno-barber-shop.md) | [Abrir prévia](https://breno-barber-shop-previa.vercel.app/) |
+| **JCAR Centro Automotivo** | [Showcase](https://github.com/jonaspessoa/jonaspessoa.github.io/blob/main/docs/jcar-site.md) | [Abrir prévia](https://jca-previa.vercel.app/) |
+
+As duas versões são **prévias de desenvolvimento**, sujeitas a alterações e sem indicação de aprovação ou publicação final pelos clientes.
+
 ## Tecnologias presentes nos projetos
 
 - **Web:** TypeScript, React, Next.js, HTML e CSS.
