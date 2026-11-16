@@ -41,15 +41,13 @@ I enjoy connecting product thinking with implementation: understanding a problem
 
 ## Earlier work · yjonasxx
 
-Selected projects from my [previous GitHub account](https://github.com/yjonasxx), highlighting experience beyond educational software.
+A selected project from my [previous GitHub account](https://github.com/yjonasxx), showing experience in commercial software.
 
 | Project | Focus | Explore |
 |:--|:--|:--|
-| **Marybelle · MLM Platform** | Next.js, Prisma and PostgreSQL platform for network marketing, with modeled users, commissions, transactions and dashboard workflows. | [Deployed application](https://app.marybelle.com.br) · [Private repository](https://github.com/yjonasxx/marybelle-mmn) |
-| **Marybelle · Institutional Website** | Brand website and product presentation, developed separately from the platform. | [Website](https://www.marybelle.com.br) · [Private repository](https://github.com/yjonasxx/marybellesite) |
 | **CRM Pro** | Next.js-based commercial management application. | [Deployed project](https://crm-pro-flax.vercel.app) · [Private repository](https://github.com/yjonasxx/projeto-crm) |
 
-**Note:** Historical successful Vercel builds do not guarantee that every feature currently works. Source repositories may require access.
+**Note:** A successful historical deployment does not guarantee current runtime functionality.
 
 ## Web experiences in progress
 
