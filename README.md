@@ -1,40 +1,110 @@
-# Jonas Pessoa
+<div align="center">
 
-**Desenvolvimento web e automação para processos administrativos e educacionais.**
+# Hey, I'm Jonas Pessoa 👋
 
-Desenvolvo aplicações e ferramentas que organizam cadastros, documentos, atendimento e rotinas de gestão. Meu portfólio reúne projetos em Python e TypeScript, com atenção à experiência do usuário, à modelagem de dados e às regras de acesso.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1100&color=6CC4FF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+in+the+Making;Building+Software+That+Solves+Real+Problems;Python+%7C+Django+%7C+TypeScript+%7C+Next.js;From+Manual+Workflows+to+Digital+Products)](https://git.io/typing-svg)
 
-[Portfólio](https://jonaspessoa.github.io/) · [Experimentar a demo CFIC](https://jonaspessoa.github.io/cfic-showcase/)
+**Web development · Business automation · Software engineering**
 
-## Projetos selecionados
+I turn repetitive processes into useful software — from student enrollment and digital contracts to educational platforms, desktop tools and interactive web experiences.
 
-| Projeto | Problema e solução | Explore |
-| --- | --- | --- |
-| **CFIC · Inscrições e Caderno** | Organiza a jornada do interessado à matrícula, com gestão comercial, contatos e indicadores. Produto em Next.js, TypeScript e Supabase; demo pública independente. | [Showcase](https://github.com/jonaspessoa/cfic-showcase) · [Demo interativa](https://jonaspessoa.github.io/cfic-showcase/) |
-| **EduCore · Gestão educacional** | Projeto demonstrativo que conecta alunos, turmas e matrículas, com módulos acadêmicos e financeiros e decisões de integridade transacional. Python, Django e PostgreSQL. | [Showcase](https://github.com/jonaspessoa/educore-showcase) · [Apresentação interativa](https://educore-demo-k196.onrender.com/) |
-| **CEPA · Contratos Digitais** | Estrutura o acompanhamento de contratos educacionais, modelos e fluxo de assinatura. A demo permite explorar cenários fictícios e ações simuladas. Next.js, TypeScript e Supabase. | [Showcase](https://github.com/jonaspessoa/cepa-contratos-showcase) · [Demo interativa](https://sistema-cepa-contratos.vercel.app/demo) |
-| **WinSIGAA · Central de Busca** | Reúne consultas acadêmicas e financeiras, filtros e exportações em Excel em uma ferramenta desktop. Python, CustomTkinter e Firebird. | [Apresentação visual](https://github.com/jonaspessoa/finder-winsigaa-showcase) |
+[![Portfolio](https://img.shields.io/badge/Explore_my_portfolio-0B1220?style=for-the-badge&logo=githubpages&logoColor=6CC4FF)](https://jonaspessoa.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonaspessoa)
+[![Previous GitHub](https://img.shields.io/badge/Earlier_work-0B1220?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yjonasxx)
 
-## Prévia de sites em desenvolvimento
+</div>
 
-| Projeto | Apresentação | Prévia navegável (não é o site final) |
-| --- | --- | --- |
-| **Breno Barber Shop** | [Showcase](https://github.com/jonaspessoa/jonaspessoa.github.io/blob/main/docs/breno-barber-shop.md) | [Abrir prévia](https://breno-barber-shop-previa.vercel.app/) |
-| **JCAR Centro Automotivo** | [Showcase](https://github.com/jonaspessoa/jonaspessoa.github.io/blob/main/docs/jcar-site.md) | [Abrir prévia](https://jca-previa.vercel.app/) |
+---
 
-As duas versões são **prévias de desenvolvimento**, sujeitas a alterações e sem indicação de aprovação ou publicação final pelos clientes.
+## About me
 
-## Tecnologias presentes nos projetos
+I'm a student and software developer based in São Paulo, Brazil. My work focuses on **practical software for real operational challenges**, especially in education and administrative workflows.
 
-- **Web:** TypeScript, React, Next.js, HTML e CSS.
-- **Backend e dados:** Python, Django, PostgreSQL, Supabase e SQL.
-- **Desktop e relatórios:** CustomTkinter, Firebird, pandas e OpenPyXL.
-- **Entrega e qualidade:** Git, testes automatizados, GitHub Actions, Vercel e Render, conforme o projeto.
+I enjoy connecting product thinking with implementation: understanding a problem, designing the data model, building the interface, and validating how the system behaves.
 
-## Como apresento meu trabalho
+- **Frontend:** responsive interfaces, React, Next.js, TypeScript and user experience.
+- **Backend:** Python, Django, APIs, authentication and business rules.
+- **Data:** PostgreSQL, SQL, Supabase and Firebird integrations.
+- **Engineering:** automated tests, Git workflows, documentation and deployments.
+- **Exploring:** scalable product architecture, system modernization and SaaS development.
 
-Os showcases explicam o problema, os fluxos, a arquitetura e os limites de cada projeto. Demos e ilustrações usam dados fictícios; implementações institucionais e informações pessoais permanecem privadas. Acesso público à demo não significa acesso administrativo ao sistema real.
+## Featured projects
 
-Na **CFIC**, é possível testar o fluxo com o login público `demo@cfic.example` e a senha `CFICdemo2026!`. No **EduCore**, a apresentação é aberta, mas o painel administrativo requer conta individual. O **WinSIGAA** tem apresentação visual, sem aplicativo público para download.
+| Project | What it solves | Explore |
+|:--|:--|:--|
+| **CFIC · Enrollment & Commercial Workspace** | Connects student enrollment, payment verification and commercial follow-up in one workflow. | [Case study](https://github.com/jonaspessoa/cfic-showcase) · [Interactive demo](https://jonaspessoa.github.io/cfic-showcase/) |
+| **EduCore · Education Management** | Demonstrates academic operations, enrollment, attendance and financial workflows using Django and PostgreSQL. | [Case study](https://github.com/jonaspessoa/educore-showcase) · [Demo](https://educore-demo-k196.onrender.com/) |
+| **CEPA · Digital Contracts** | Organizes contract templates, issuance, status tracking and a digital signing journey. | [Case study](https://github.com/jonaspessoa/cepa-contratos-showcase) · [Interactive demo](https://sistema-cepa-contratos.vercel.app/demo) |
+| **WinSIGAA · Desktop Search Tool** | Helps administrative teams search academic and financial records and export Excel reports. | [Visual case study](https://github.com/jonaspessoa/finder-winsigaa-showcase) |
 
-Para conhecer os projetos, comece pelo [portfólio](https://jonaspessoa.github.io/) ou pelos repositórios destacados abaixo.
+**Behind the scenes:** Production-oriented institutional source code and personal records remain private. Public demos use fictional data or isolated simulations, and each case study explains its limits.
+
+## Web experiences in progress
+
+| Project | Preview | Notes |
+|:--|:--|:--|
+| **Breno Barber Shop** | [View preview](https://breno-barber-shop-previa.vercel.app/) | Responsive website concept, under development |
+| **JCAR Automotive** | [View preview](https://jca-previa.vercel.app/) | Automotive services website, under development |
+
+These are development previews, not approved final client websites.
+
+## Tech stack
+
+<div align="center">
+
+**Languages & interfaces**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & libraries**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Data & infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## How I build
+
+**Understand the workflow → model the data → implement the product → test the behavior → document the decisions.**
+
+I care about the parts users don't always see: data integrity, permissions, clear interfaces, maintainability and realistic project boundaries.
+
+## GitHub activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonaspessoa&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaspessoa&layout=compact&theme=tokyonight&hide_border=true)
+
+<sub>Public GitHub statistics may not reflect work in private repositories.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+[**Explore my portfolio**](https://jonaspessoa.github.io/) · [**Browse my repositories**](https://github.com/jonaspessoa?tab=repositories)
+
+*Thoughtful software starts with understanding the problem.*
+
+</div>
