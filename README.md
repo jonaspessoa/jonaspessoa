@@ -98,12 +98,15 @@ I care about the parts users don't always see: data integrity, permissions, clea
 
 ## GitHub activity
 
+My work spans public showcases and private application repositories. For an accurate overview, explore the projects and their documentation directly.
+
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonaspessoa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonaspessoa&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-View_my_profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonaspessoa)
+[![Repositories](https://img.shields.io/badge/Explore-Repositories-2479B9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonaspessoa?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Project_case_studies-0B1220?style=for-the-badge&logo=githubpages&logoColor=6CC4FF)](https://jonaspessoa.github.io/)
 
-<sub>Public GitHub statistics may not reflect work in private repositories.</sub>
+<sub>Private repository activity is not fully represented by public GitHub metrics.</sub>
 
 </div>
 
