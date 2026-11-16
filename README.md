@@ -41,18 +41,15 @@ I enjoy connecting product thinking with implementation: understanding a problem
 
 ## Earlier work · yjonasxx
 
-Before the projects above, I built and explored products across **network marketing, CRM, web development and Python automation**. That work lives on my [previous GitHub account](https://github.com/yjonasxx) and is part of my development journey.
+Selected projects from my [previous GitHub account](https://github.com/yjonasxx), highlighting experience beyond educational software.
 
 | Project | Focus | Explore |
 |:--|:--|:--|
-| **Marybelle · MLM Platform** | Next.js, Prisma and PostgreSQL application with modeled users, network levels, transactions and commission workflows. | [Deployed application](https://app.marybelle.com.br) · [Repository (private)](https://github.com/yjonasxx/marybelle-mmn) |
-| **Marybelle · Website** | Brand website and product presentation, developed separately from the application. | [Website](https://www.marybelle.com.br) · [Repository (private)](https://github.com/yjonasxx/marybellesite) |
-| **Marybelle · System Dashboard** | Earlier, more complete project snapshot containing the broader Marybelle system; its relationship to the latest version is still being reviewed. | [Repository (private)](https://github.com/yjonasxx/sistema-dashboard) |
-| **CRM Pro** | Next.js-based commercial management application and dashboard interface. | [Deployed project](https://crm-pro-flax.vercel.app) · [Repository (private)](https://github.com/yjonasxx/projeto-crm) |
-| **Chá Rifa Mariana** | Interactive raffle workflow built with Python, Streamlit and Google Sheets. | [Source code](https://github.com/yjonasxx/cha-rifa-mariana) |
-| **Rede Marketing** | Earlier network-marketing prototype with simulated authentication. | [Prototype](https://rede-marketing.vercel.app) · [Repository](https://github.com/yjonasxx/rede-marketing) |
+| **Marybelle · MLM Platform** | Next.js, Prisma and PostgreSQL platform for network marketing, with modeled users, commissions, transactions and dashboard workflows. | [Deployed application](https://app.marybelle.com.br) · [Private repository](https://github.com/yjonasxx/marybelle-mmn) |
+| **Marybelle · Institutional Website** | Brand website and product presentation, developed separately from the platform. | [Website](https://www.marybelle.com.br) · [Private repository](https://github.com/yjonasxx/marybellesite) |
+| **CRM Pro** | Next.js-based commercial management application. | [Deployed project](https://crm-pro-flax.vercel.app) · [Private repository](https://github.com/yjonasxx/projeto-crm) |
 
-**Note:** Deployed links reflect Vercel projects with successful historical builds, not a guarantee of current runtime functionality. Private repositories are linked for project identification, not public source access.
+**Note:** Historical successful Vercel builds do not guarantee that every feature currently works. Source repositories may require access.
 
 ## Web experiences in progress
 
